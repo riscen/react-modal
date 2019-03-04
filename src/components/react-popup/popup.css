@@ -1,0 +1,18 @@
+.react-popup {
+	background: #000;
+	height: 100vh;
+	left: 0;
+	opacity: 0.5;
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 10;
+}
+
+.react-popup-contents {
+	background: #fff;
+	left: calc(50% - 50px);
+	position: absolute;
+	top: calc(50% - 25px);
+	z-index: 20;
+}

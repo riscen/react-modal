@@ -1,0 +1,17 @@
+.app {
+	display: table;
+	font-family: arial;
+	height: 100vh;
+	margin: auto;
+	text-align: center;
+}
+
+.app-btn {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.app-btn input {
+	cursor: pointer;
+	padding: 5% 10%;
+}
